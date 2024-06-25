@@ -6,7 +6,7 @@ body {
 }
 
 .main {
-	padding-top: 119px;
+	padding-top: 60px;
 	background-color: #fff;
 }
 .container {
@@ -21,7 +21,7 @@ body {
 	margin-bottom: 24px;
 	width: 300px;
 	justify-self: 73px;
-	margin-left: 21px;
+	margin-left: 40px;
 }
 
 .btn-main {
@@ -34,7 +34,7 @@ body {
 	color: #fff;
 	border: none;
 	box-shadow: 0 4px 131px 0 #ff611f;
-	margin-left: 23px;
+	margin-left: 43px;
 	z-index: 1000;
 }
 
@@ -59,12 +59,12 @@ body {
 .form {
 	/* display: flex; */
 	flex-direction: column;
-	padding: 0 20px;
+	padding: 0 44px;
 	padding-top: 40px;
 }
 
 input {
-	box-shadow: 0 4px 131px 0 #ff621f;
+	box-shadow: 0 4px 37px 0 #ff621f;
 	width: 343px;
 	border-radius: 20px;
 	height: 63px;
@@ -97,6 +97,8 @@ input::placeholder {
 	font-size: 25px;
 	color: #fff;
 	border: none;
+	box-shadow: 0 4px 46px 0 #ff621f;
+	margin-bottom: 46px;
 }
 .content {
 	animation: fade-in 2s forwards;
