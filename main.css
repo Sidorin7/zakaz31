@@ -6,7 +6,8 @@ body {
 }
 
 .main {
-	padding-top: 119px;
+	padding-top: 20px;
+	/* padding-top: 119px; */
 	background-color: #fff;
 }
 .container {
@@ -25,7 +26,8 @@ body {
 
 .btn-main {
 	border-radius: 20px;
-	width: 343px;
+	width: 300px;
+	/* width: 343px; */
 	height: 60px;
 	background: #ff621f;
 	font-weight: 600;
